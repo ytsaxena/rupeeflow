@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/private/tmp/claude-501/-Users-sachin-Downloads-rupeeflow/43eb1b29-adac-4417-a91c-98d5ac3e83bd/scratchpad/serve.js"],
+      "port": 4321
+    }
+  ]
+}

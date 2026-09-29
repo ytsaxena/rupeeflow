@@ -1,0 +1,6 @@
+{
+  "name": "RupeeFlow",
+  "description": "100% offline, ad-free Indian Rupee expense calculator, borrow & lend ledger, and visual statements with smart UPI/SMS parser and interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
